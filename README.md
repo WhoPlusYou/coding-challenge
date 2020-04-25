@@ -12,6 +12,6 @@ You have been recently appointed the position of technical city planner of a sma
 
 You know that your city has many streets, a street is comprised of houses, a house can have many people living in it, and (due to the carbon act passed by your city legislature) each household can have at most one car registered to it.  You also know that a street has a name, houses have an address, a person has a name and age, and a car has a license plate, brand and color.
 
-You have been asked from your city's business liasons for a way to get a few different pieces of information via a restful API.  They wish to be able to fetch all people living in your city, fetch all cars when providing a particular street name, fetch the owner of a vehicle when providing a license plate, and fetch the full address and street of a house when providing a person's name.
+You have been asked from your city's business liasons for a way to get a few different pieces of information via a restful API.  They wish to be able to fetch all people living in your city, fetch all cars when providing a particular street name, fetch the owner(s) of a vehicle when providing a license plate, and fetch the full address and street of a house when providing a person's name.
 
 For this challenge, you must use the Laravel (https://laravel.com/docs/master) repository.  Create a new public repository on github to save your work.  It's expected that you follow laravel standards with respect to coding conventions.
